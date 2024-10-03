@@ -1,4 +1,3 @@
-import Image from "next/image";
 import RamasCode from './components/RamasCode';
 
 export default function Home() {
